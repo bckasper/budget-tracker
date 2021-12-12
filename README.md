@@ -8,7 +8,7 @@ The best part is that this application functions both online and offline!
 ## Accessing the application
 This application is deployed via Heroku. Below are links to the deployed application as well as the github repo.
 
-**Deployed Heroku App:** https://dashboard.heroku.com/apps/hidden-bastion-81227
+**Deployed Heroku App:** https://hidden-bastion-81227.herokuapp.com
 
 **Github Repo:** https://github.com/bckasper/budget-tracker
 
